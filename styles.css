@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-image: url("image/images.jpg");
+    background-image: url("images.jpg");
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -44,7 +44,7 @@ section {
 }
 
 footer {
-    background-image: url("image/images.jpg");
+    background-image: url("images.jpg");
     color: #fff;
     text-align: center;
     padding: 1rem;
