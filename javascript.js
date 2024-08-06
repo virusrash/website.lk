@@ -1,4 +1,4 @@
 function downloadResume() {
-    window.location.href = 'pdf/123.pdf';
+    window.location.href = '123.pdf';
 }
 
